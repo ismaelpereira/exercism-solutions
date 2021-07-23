@@ -609,3 +609,5 @@ test.js
 # Additional files built by Visual Studio
 
 # End of https://www.toptal.com/developers/gitignore/api/linux,macos,windows,node,visualstudio,visualstudiocode,vim
+deploy.js
+.vscode
