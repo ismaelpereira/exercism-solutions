@@ -32,10 +32,5 @@
     "lint": "eslint ."
   },
   "license": "MIT",
-  "dependencies": {},
-<<<<<<< HEAD:anagram/package.json
-  "version": "1.5.0"
-=======
-  "version": "2.0.0"
->>>>>>> origin/master:allergies/package.json
+  "dependencies": {}
 }
